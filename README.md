@@ -22,4 +22,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abir-ux&" alt="abir-ux" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-ux&label=Profile%20views&color=0e75b6&style=flat" alt="abir-ux" /> </p>
+
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/Abir-ux/count.svg" />
+</p>
