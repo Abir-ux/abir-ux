@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
 - 📫 Reach me at **abir573912@gmail.com**
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> 
 <br />
 
 ### Connect with me:
@@ -20,11 +20,10 @@
 [<img align="left" alt="arifpro | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](https://gitlab.com/arifpro)
 [<img align="left" alt="proarif | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@proarif)
 [<img align="left" alt="proarif | Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />](https://dev.to/proarif)
-[<img align="left" alt="devarif.me | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:devarif.me@gmail.com)
 
 <br />
 
-
+-->
 
 
 
